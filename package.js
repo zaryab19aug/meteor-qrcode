@@ -1,6 +1,6 @@
 Package.describe({
-  name: 'panter:qrcode',
-  version: '0.0.1',
+  name: 'block360:qrcode',
+  version: '0.0.2',
   // Brief, one-line summary of the package.
   summary: 'Create QR codes in meteor. Kudos to https://larsjung.de/jquery-qrcode/',
   // URL to the Git repository containing the source code for this package.
